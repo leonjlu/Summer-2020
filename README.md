@@ -1,5 +1,6 @@
-# Summer-2020 
+# Predict Metacritic Review Helpfulness
 ## Project Goals
-* Define project for the summer
-* Learn webscraping and use it to collect data
-* Build end to end pipeline for a machine learning project
+* Collect reviews and related data from metacritic
+* Perform EDA and data analysis on scraped data
+* Create and comapre models for predicting review helpfulness
+
